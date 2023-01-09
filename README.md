@@ -8,7 +8,7 @@ This is a web based application developed for food style related based website i
 
 **Project Link** -https://happy-grass-098ad1200.2.azurestaticapps.net
 
-** Project Demo Video Link ** 
+** Project Demo Video Link : https://youtu.be/Lyc0PAN7JFA
 
 ## Azure technologies used for Project
 
